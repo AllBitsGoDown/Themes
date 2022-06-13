@@ -1,0 +1,17 @@
+{
+    "manifest": {
+        "author": "Pain..#1110",
+        "name": "Themes",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/985028215988957214\/985758625584799764\/IMG_20220613_111243.png",
+        "overlay_alpha": 0,
+        "blur_radius": 0
+    },
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
